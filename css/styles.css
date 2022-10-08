@@ -92,7 +92,9 @@ hr{
     background-image: linear-gradient(to bottom, #3cf4fa, #22e3d9);
     text-decoration: none;
 }
-
+.row2{
+    margin-top: 200px;
+}
 .footer-link{
     padding: 3%;
 }
@@ -138,9 +140,10 @@ hr{
     float: right;
     width: 30%;
 }
+
 .skill-row{
     width: 50%;
-    max-width: 50ch;
+    max-width: 70ch;
     margin: 100px auto;
     text-align: left;
 }
@@ -149,6 +152,6 @@ hr{
 }
 
 .footer{
-    margin-top: 300px;
+    margin-top: 200px;
 }
 
