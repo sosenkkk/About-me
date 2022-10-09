@@ -93,6 +93,10 @@ hr{
     text-decoration: none;
 }
 
+.row2{
+    margin-top: 200px;
+}
+
 .footer-link{
     padding: 3%;
 }
@@ -131,16 +135,16 @@ hr{
     font-size: 0.75rem;
     margin-top: 60px;
 }
-
 .draw{
     min-width: 100px;
     border-radius: 100%;
     float: right;
     width: 30%;
 }
+
 .skill-row{
     width: 50%;
-    max-width: 50ch;
+    max-width: 70ch;
     margin: 100px auto;
     text-align: left;
 }
@@ -149,6 +153,6 @@ hr{
 }
 
 .footer{
-    margin-top: 300px;
+    margin-top: 200px;
 }
 
